@@ -97,9 +97,4 @@ def christmas_tree(height: int, hollow: bool):
     print(base_out)
 
 
-christmas_tree(6, False)
-
-christmas_tree(6, True)
-
-
     
